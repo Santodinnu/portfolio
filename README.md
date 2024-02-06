@@ -1,5 +1,5 @@
 # Santoshi Portfolio 
-![Preview UI]/portfolio.png
+![Preview UI](/portfolio.png)
 
 ## Portfolio Sections
 ✔️ Summary and About me\
