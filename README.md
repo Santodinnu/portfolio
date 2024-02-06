@@ -9,7 +9,7 @@
 ✔️ Contact me\
 ✔️ GitHub Profile
 
-To view a live example, **[click here](https://developerfolio.js.org/)**.
+To view a live example, **[click here](https://santoshiportfolio.netlify.app/)**.
 
 
 
