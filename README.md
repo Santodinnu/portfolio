@@ -1,5 +1,5 @@
 # Santoshi Portfolio 
-
+-"assets/images/portfolio.png"
 
 ## Portfolio Sections
 ✔️ Summary and About me\
