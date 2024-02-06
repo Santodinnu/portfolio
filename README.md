@@ -1,5 +1,5 @@
 # Santoshi Portfolio 
--"assets/images/portfolio.png"
+![Preview UI]/portfolio.png
 
 ## Portfolio Sections
 ✔️ Summary and About me\
@@ -23,7 +23,7 @@ npm install
 
 # Start a local dev server
 npm start
-```
+
 
 ## Technologies Used 
 
