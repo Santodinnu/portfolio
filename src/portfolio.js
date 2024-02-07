@@ -95,6 +95,15 @@ const educationInfo = {
   display: true, 
   schools: [
     {
+      schoolName: "Per Scholas",
+      logo: require("./assets/images/Per-Scholas.png"),
+      subHeader: "Software Engineer Training Course",
+      duration: "October 2023 - February 2024",
+      descBullets: [
+        "Completed Software Engineer Training course with hands-on experience"
+      ]
+    },
+    {
       schoolName: "Easwari Engineering College",
       logo: require("./assets/images/Easwarilogo.png"),
       subHeader: "Bachelor of Engineering in ELectronics and Communication",
