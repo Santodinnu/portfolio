@@ -9,7 +9,7 @@
 ✔️ Contact me\
 ✔️ GitHub Profile
 
-To view a live  **[click here](https://santoshiportfolio.netlify.app/)**.
+To view a live  **[click here](https://portfolioofsantoshi.netlify.app/)**.
 
 
 
